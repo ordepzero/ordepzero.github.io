@@ -1,4 +1,4 @@
-# Cientista de Dados - Pedro Ulisses
+# Cientista de Dados
 
 Este portfólio é uma compilação de todos os projetos de Ciência de Dados e Análise de Dados que realizei para fins acadêmicos, de autoaprendizagem e de hobby.
 
@@ -20,11 +20,9 @@ Este projeto tem como objetivo apresentar os conceitos de estatística e a execu
 
 
 
-
 <img align="left" width="100" height="100" src="assets\img\projects\cloud_arq.jpg"> **[AWS SageMaker](https://github.com/ordepzero/aws_machine_learning)**
  
 Este projeto tem como objetivo apresentar o desenvolvimento de várias aplicações utilizando o AWS SageMaker.
-
 
 
 
