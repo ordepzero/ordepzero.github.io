@@ -62,7 +62,10 @@ Este projeto tem como objetivo concentrar a execução de vários testes A/B apl
 
 <br />
 
- 
+## Posts
+
+[Deploy de uma aplicação Flask usando AWS CodePipeline e GitHub](posts/deploy_codepipeline_github/README.md) 
+
 ## Competências
 
 - **Metodologias**: Aprendizado de máquina, Processamento de Linguagem Natural, Sistema de Rrecomendação, Estatística, Testes A/B e Design de Experimentação, Análise de Big Data
